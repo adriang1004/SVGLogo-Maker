@@ -18,9 +18,9 @@ To install, clone the repository to your local machine. Navigate to the director
 ## Usage
 After installation, run the application by executing 'node index.js' in the terminal. Once all prompts have been answered, a logo will be generated.
 
-[Walkthrough video](https://drive.google.com/file/d/1bTurNzOD8qYZArXuRDzfX-VmeRJOOg67/view)
+[Walkthrough video](https://drive.google.com/file/d/12EBp3O_CdL-eH-xW-KXIiL648Ol26DbI/view)
 
-![readme-gen](https://github.com/adriang1004/README-gen/assets/144719329/ac5bc3ff-d0bf-4483-a307-07f973965d31)
+![svgLogoGen](https://github.com/adriang1004/SVGLogo-Maker/assets/144719329/95a6c793-97ad-4f34-ab47-caee0fabb77c)
 
 ## Tests
 Run 'npm test' from the project root directory to execute the test suite.
